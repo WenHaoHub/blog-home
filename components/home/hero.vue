@@ -65,7 +65,7 @@ const { ref: heroSectionRef } = MENULINKS[0]
           <a
             v-for="(item, key) in SOCIAL_LINKS"
             :key="item"
-            :href="item"
+            :href="SOCIAL_LINKS[key]"
             :class="HERO_STYLES.SOCIAL_LINK"
             rel="noreferrer"
             target="_blank"
