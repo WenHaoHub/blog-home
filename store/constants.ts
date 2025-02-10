@@ -61,7 +61,7 @@ export const SOCIAL_LINKS = {
   facebook: 'https://www.facebook.com',
   // dribbble: 'https://dribbble.com',
   // behance: 'https://www.behance.net',
-  twitter: 'https://twitter.com',
+  twitter: 'https://x.com/luwnho15',
   // topmate: 'https://www.topmate.io/alphaayush/',
 } as Record<string, string>
 
