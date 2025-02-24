@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "prebuild": "rimraf .nuxt && rimraf .output",
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
