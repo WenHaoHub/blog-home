@@ -74,7 +74,7 @@ const { ref: heroSectionRef } = MENULINKS[0]
           </a>
         </div>
         <div class="seq flex">
-          <Button classes="mr-3" :type="ButtonTypes.OUTLINE" name="博客文档" target="_blank" rel="noreferrer" href="http://note.wenhao.info/" />
+          <Button classes="mr-3" :type="ButtonTypes.OUTLINE" name="博客文档" target="_blank" rel="noreferrer" href="http://note.wenhaohub.cn/" />
           <Button
             classes="ml-3"
             :type="ButtonTypes.PRIMARY"

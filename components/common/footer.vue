@@ -31,7 +31,7 @@ const otherProp = reactive({
           </a>
         </div>
         <div class="mt-8 flex">
-          <Button classes="mr-3" :type="ButtonTypes.OUTLINE" name="博客文档" :other-props="otherProp" href="http://note.wenhao.info/" />
+          <Button classes="mr-3" :type="ButtonTypes.OUTLINE" name="博客文档" :other-props="otherProp" href="http://note.wenhaohub.cn/" />
           <Button classes="ml-3" :type="ButtonTypes.WHITE" name="与我联系" href="https://github.com/WenHaoHub" :other-props="otherProp" />
         </div>
         <!-- <h2 class="mt-8 text-center text-sm sm:text-base">
@@ -47,7 +47,7 @@ const otherProp = reactive({
          <div class="flex justify-cente items-center ">
         <img src="/footer-bah.svg" alt="" width="20px" >
         <p class="ml-2">
-           蜀ICP备2024061733号
+          蜀ICP备2024061733号-2
         </p>
         </div>
       </div>

@@ -75,7 +75,7 @@ onMounted(() => {
       }}
     </p>
     <h1 ref="quoteRef" :class="`${COLLABORATION_STYLE.TITLE} ${willChange && 'will-change-opacity'}`">
-      技术内容，请移步 <span class="text-strong font-bold" onclick="window.open('http://note.wenhao.info/')">博客文档</span>
+      技术内容，请移步 <span class="text-strong font-bold" onclick="window.open('http://note.wenhaohub.cn/')">博客文档</span>
     </h1>
 
     <p :class="`mt-6 md:mt-8 ui-right ${COLLABORATION_STYLE.SLIDING_TEXT}`">

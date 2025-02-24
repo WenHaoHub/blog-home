@@ -16,7 +16,7 @@ export const METADATA = {
   title: 'wh | home',
   description:
     '我在设计和开发之间架起了桥梁',
-  siteUrl: 'http://blog.wenhao.info/',
+  siteUrl: 'http://note.wenhaohub.cn/',
 }
 
 export const MENULINKS = [
